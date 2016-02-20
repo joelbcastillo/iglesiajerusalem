@@ -2,7 +2,7 @@
 
 import sys, os, pwd
 
-project = "fbone"
+project = "iglesiajerusalem"
 
 # Use instance folder, instead of env variables.
 # specify dev/production config
